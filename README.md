@@ -22,5 +22,8 @@
 * Notes: Bear
 * To-Do: Apple Reminders
 * Terminal: Apple Terminal
-* Design: Figma
+* Design Tool: Figma
+* Measuring Tool: PixelSnap
 * Git Client: Fork
+* Password Manager: 1Password
+* Keyboard Customizer: Karabiner Elements
